@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/ella/Desktop/C#/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/ella/Desktop/C#/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/ella/Desktop/C#/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/ella/Desktop/C#/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/ella/Desktop/C#/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll

@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/eolymp.8640/bin/Debug/net10.0/eolymp.8640
+/Users/ella/Desktop/C#/eolymp.8640/bin/Debug/net10.0/eolymp.8640.deps.json
+/Users/ella/Desktop/C#/eolymp.8640/bin/Debug/net10.0/eolymp.8640.runtimeconfig.json
+/Users/ella/Desktop/C#/eolymp.8640/bin/Debug/net10.0/eolymp.8640.dll
+/Users/ella/Desktop/C#/eolymp.8640/bin/Debug/net10.0/eolymp.8640.pdb
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.AssemblyInfo.cs
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.dll
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/refint/eolymp.8640.dll
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.pdb
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/eolymp.8640.genruntimeconfig.cache
+/Users/ella/Desktop/C#/eolymp.8640/obj/Debug/net10.0/ref/eolymp.8640.dll

@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/ArrayNegPos/bin/Debug/net10.0/ArrayNegPos
+/Users/ella/Desktop/C#/ArrayNegPos/bin/Debug/net10.0/ArrayNegPos.deps.json
+/Users/ella/Desktop/C#/ArrayNegPos/bin/Debug/net10.0/ArrayNegPos.runtimeconfig.json
+/Users/ella/Desktop/C#/ArrayNegPos/bin/Debug/net10.0/ArrayNegPos.dll
+/Users/ella/Desktop/C#/ArrayNegPos/bin/Debug/net10.0/ArrayNegPos.pdb
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.AssemblyInfo.cs
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.dll
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/refint/ArrayNegPos.dll
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.pdb
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ArrayNegPos.genruntimeconfig.cache
+/Users/ella/Desktop/C#/ArrayNegPos/obj/Debug/net10.0/ref/ArrayNegPos.dll

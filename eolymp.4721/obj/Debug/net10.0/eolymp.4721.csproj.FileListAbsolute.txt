@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/eolymp.4721/bin/Debug/net10.0/eolymp.4721
+/Users/ella/Desktop/C#/eolymp.4721/bin/Debug/net10.0/eolymp.4721.deps.json
+/Users/ella/Desktop/C#/eolymp.4721/bin/Debug/net10.0/eolymp.4721.runtimeconfig.json
+/Users/ella/Desktop/C#/eolymp.4721/bin/Debug/net10.0/eolymp.4721.dll
+/Users/ella/Desktop/C#/eolymp.4721/bin/Debug/net10.0/eolymp.4721.pdb
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.AssemblyInfo.cs
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.dll
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/refint/eolymp.4721.dll
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.pdb
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/eolymp.4721.genruntimeconfig.cache
+/Users/ella/Desktop/C#/eolymp.4721/obj/Debug/net10.0/ref/eolymp.4721.dll

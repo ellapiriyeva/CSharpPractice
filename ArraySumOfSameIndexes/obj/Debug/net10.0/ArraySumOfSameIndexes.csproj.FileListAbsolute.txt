@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/bin/Debug/net10.0/ArraySumOfSameIndexes
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/bin/Debug/net10.0/ArraySumOfSameIndexes.deps.json
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/bin/Debug/net10.0/ArraySumOfSameIndexes.runtimeconfig.json
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/bin/Debug/net10.0/ArraySumOfSameIndexes.dll
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/bin/Debug/net10.0/ArraySumOfSameIndexes.pdb
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.AssemblyInfo.cs
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.dll
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/refint/ArraySumOfSameIndexes.dll
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.pdb
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ArraySumOfSameIndexes.genruntimeconfig.cache
+/Users/ella/Desktop/C#/ArraySumOfSameIndexes/obj/Debug/net10.0/ref/ArraySumOfSameIndexes.dll

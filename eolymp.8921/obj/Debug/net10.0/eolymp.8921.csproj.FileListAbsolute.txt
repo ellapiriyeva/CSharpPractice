@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/eolymp.8921/bin/Debug/net10.0/eolymp.8921
+/Users/ella/Desktop/C#/eolymp.8921/bin/Debug/net10.0/eolymp.8921.deps.json
+/Users/ella/Desktop/C#/eolymp.8921/bin/Debug/net10.0/eolymp.8921.runtimeconfig.json
+/Users/ella/Desktop/C#/eolymp.8921/bin/Debug/net10.0/eolymp.8921.dll
+/Users/ella/Desktop/C#/eolymp.8921/bin/Debug/net10.0/eolymp.8921.pdb
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.AssemblyInfo.cs
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.dll
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/refint/eolymp.8921.dll
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.pdb
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/eolymp.8921.genruntimeconfig.cache
+/Users/ella/Desktop/C#/eolymp.8921/obj/Debug/net10.0/ref/eolymp.8921.dll

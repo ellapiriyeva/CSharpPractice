@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/SortArray/bin/Debug/net10.0/SortArray
+/Users/ella/Desktop/C#/SortArray/bin/Debug/net10.0/SortArray.deps.json
+/Users/ella/Desktop/C#/SortArray/bin/Debug/net10.0/SortArray.runtimeconfig.json
+/Users/ella/Desktop/C#/SortArray/bin/Debug/net10.0/SortArray.dll
+/Users/ella/Desktop/C#/SortArray/bin/Debug/net10.0/SortArray.pdb
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.AssemblyInfo.cs
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.dll
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/refint/SortArray.dll
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.pdb
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/SortArray.genruntimeconfig.cache
+/Users/ella/Desktop/C#/SortArray/obj/Debug/net10.0/ref/SortArray.dll

@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.AssemblyInfo.cs
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/ArrayElements/bin/Debug/net10.0/ArrayElements
+/Users/ella/Desktop/C#/ArrayElements/bin/Debug/net10.0/ArrayElements.deps.json
+/Users/ella/Desktop/C#/ArrayElements/bin/Debug/net10.0/ArrayElements.runtimeconfig.json
+/Users/ella/Desktop/C#/ArrayElements/bin/Debug/net10.0/ArrayElements.dll
+/Users/ella/Desktop/C#/ArrayElements/bin/Debug/net10.0/ArrayElements.pdb
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.dll
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/refint/ArrayElements.dll
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.pdb
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ArrayElements.genruntimeconfig.cache
+/Users/ella/Desktop/C#/ArrayElements/obj/Debug/net10.0/ref/ArrayElements.dll

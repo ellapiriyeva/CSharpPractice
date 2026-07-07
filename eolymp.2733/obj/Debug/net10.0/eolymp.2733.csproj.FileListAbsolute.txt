@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/eolymp.2733/bin/Debug/net10.0/eolymp.2733
+/Users/ella/Desktop/C#/eolymp.2733/bin/Debug/net10.0/eolymp.2733.deps.json
+/Users/ella/Desktop/C#/eolymp.2733/bin/Debug/net10.0/eolymp.2733.runtimeconfig.json
+/Users/ella/Desktop/C#/eolymp.2733/bin/Debug/net10.0/eolymp.2733.dll
+/Users/ella/Desktop/C#/eolymp.2733/bin/Debug/net10.0/eolymp.2733.pdb
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.AssemblyInfo.cs
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.dll
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/refint/eolymp.2733.dll
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.pdb
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/eolymp.2733.genruntimeconfig.cache
+/Users/ella/Desktop/C#/eolymp.2733/obj/Debug/net10.0/ref/eolymp.2733.dll

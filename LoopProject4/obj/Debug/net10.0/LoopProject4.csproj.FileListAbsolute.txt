@@ -1,0 +1,14 @@
+/Users/ella/Desktop/C#/LoopProject4/bin/Debug/net10.0/LoopProject4
+/Users/ella/Desktop/C#/LoopProject4/bin/Debug/net10.0/LoopProject4.deps.json
+/Users/ella/Desktop/C#/LoopProject4/bin/Debug/net10.0/LoopProject4.runtimeconfig.json
+/Users/ella/Desktop/C#/LoopProject4/bin/Debug/net10.0/LoopProject4.dll
+/Users/ella/Desktop/C#/LoopProject4/bin/Debug/net10.0/LoopProject4.pdb
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.AssemblyInfoInputs.cache
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.AssemblyInfo.cs
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.csproj.CoreCompileInputs.cache
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.dll
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/refint/LoopProject4.dll
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.pdb
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/LoopProject4.genruntimeconfig.cache
+/Users/ella/Desktop/C#/LoopProject4/obj/Debug/net10.0/ref/LoopProject4.dll
